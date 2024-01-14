@@ -18,7 +18,7 @@ Puzzle_5 = [[[3],[1,1],[3],[2],[1,2]],[[2],[1,1],[4],[3],[1,1]]]
 PuzzleOn = Puzzle_5
 
 TopTaskLenghth = len(PuzzleOn[0])
-LeftTaskLenghth = len(PuzzleOn[1])
+LeftTaskLenghth = len(PuzzleOn[1]);
 
 TaskAnswer = [[],[]]
 for i in range(TopTaskLenghth):
